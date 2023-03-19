@@ -1,11 +1,4 @@
-My Projects
-
-Python : Vaccination System
-C# : Administration System
-C++ : Car Booking System
-R programming : Conduct Analysis
-Web Development
-Java: Cafeteria System
+A Java project that manages simple cafeteria ordering system. Not much error but a bit not user friendly on the payment phase.
 
 
 # my_project
