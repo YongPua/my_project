@@ -1,0 +1,7 @@
+Jack , 19 , 20/8/2003 , Male , Kuala Lumpur , 121111222 , jack@gmail.com , TP060001 , jack0001 , jack0001
+Jenny , 20 , 3/3/2002 , Female , Kuala Lumpur  , 121111333 , jenny@gmail.com , TP060002 , jenny0002 , jenny0002
+Rosie , 20 , 5/5/2002 , Female , Ipoh , 121111333 , rosie@gmail.com , TP060003 , rosie0003 , rosie0003
+Kent , 21 , 21/5/2001 , Male , Selangor , 121111444 , kent@gmail.com , TP060004 , kent0004 , kent0004
+Lisa , 21 , 9/6/2001 , Female , Johor , 121111555 , lisa@gmail.com , TP060005 , lisa0005 , lisa0005
+Ali , 14 , 22/12/2010 , Male , No.22, Jalan Kaskas , 123456789 , ali@gmail.com , TP060006 , ali123 , ali123
+

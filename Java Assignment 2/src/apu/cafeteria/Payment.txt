@@ -1,0 +1,8 @@
+
+TP060001 , 11.0 , APCard , Completed
+TP060001 , 13.0 , APCard , Completed
+null , null , APCard , Completed
+TP060002 , 23.0 , APCard , Completed
+TP060001 , 16.0 , APCard , Completed
+TP060006 , 13.0 , Counter , Completed
+TP060001 , 20.0 , APCard , Completed

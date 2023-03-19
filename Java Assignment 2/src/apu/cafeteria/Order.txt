@@ -1,0 +1,4 @@
+TP060002 , Laksa 7.00 , Nasi Kandar 7.00 , Mee Soup 9.00 , 23.0
+TP060001 , Fried Rice 10.00 , Teh Tarik 3.00 , Milo 3.00 , 16.0
+TP060006 , Milo 3.00 , Sirap Bandung 3.00 , Nasi Kandar 7.00 , 13.0
+TP060001 , Teh Tarik 3.00 , Fried Rice 10.00 , Nasi Kandar 7.00 , 20.0

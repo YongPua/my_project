@@ -1,0 +1,11 @@
+Maggi Goreng , 7.00
+Fried Rice , 10.00
+Laksa , 7.00
+Teh Tarik , 3.00
+Milo , 3.00
+
+Mee Soup , 9.00
+Air Panas , 1.00
+Nasi Kandar , 7.00
+Sirap Bandung , 3.00
+Chicken Rice , 8.00
