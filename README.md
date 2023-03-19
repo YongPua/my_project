@@ -1,11 +1,3 @@
-My Projects
-
-Python : Vaccination System
-C# : Administration System
-C++ : Car Booking System
-R programming : Conduct Analysis
-Web Development
-Java: Cafeteria System
-
+A simple C++ program on booking a car, some flaws still can be detected, and some functions are not connected properly
 
 # my_project
