@@ -1,11 +1,4 @@
-My Projects
-
-Python : Vaccination System
-C# : Administration System
-C++ : Car Booking System
-R programming : Conduct Analysis
-Web Development
-Java: Cafeteria System
+This project still have some errors being inflicted, overall a project on educational system
 
 
 # my_project
